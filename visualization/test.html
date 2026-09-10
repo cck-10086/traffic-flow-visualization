@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <script src="echarts.min.js"></script>
+    <script src="china.js"></script>
+</head>
+<body>
+    <div id="test" style="width:800px;height:500px;"></div>
+    <script>
+    var chart = echarts.init(document.getElementById('test'));
+    chart.setOption({
+        geo: { map: 'china', roam: true },
+        series: []
+    });
+    console.log('ECharts version:', echarts.version);
+    console.log('Map registered:', !!echarts.getMap('china'));
+    </script>
+</body>
+</html>

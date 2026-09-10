@@ -1,0 +1,2922 @@
+{
+  "metadata": {
+    "city": "北京市",
+    "study_area": "核心城区",
+    "time_range": "2024年1月 (全时段)",
+    "total_roads": 25,
+    "data_points": 300
+  },
+  "roads": [
+    {
+      "id": "R001",
+      "name": "长安街",
+      "start": "东单",
+      "end": "西单",
+      "length": 3.8,
+      "type": "主干道"
+    },
+    {
+      "id": "R002",
+      "name": "二环路",
+      "start": "朝阳门",
+      "end": "西直门",
+      "length": 32.7,
+      "type": "环线"
+    },
+    {
+      "id": "R003",
+      "name": "三环路",
+      "start": "国贸桥",
+      "end": "航天桥",
+      "length": 48.3,
+      "type": "环线"
+    },
+    {
+      "id": "R004",
+      "name": "四环路",
+      "start": "四惠桥",
+      "end": "五棵松桥",
+      "length": 65.3,
+      "type": "环线"
+    },
+    {
+      "id": "R005",
+      "name": "建国门外大街",
+      "start": "建国门",
+      "end": "国贸",
+      "length": 2.5,
+      "type": "主干道"
+    },
+    {
+      "id": "R006",
+      "name": "中关村大街",
+      "start": "海淀黄庄",
+      "end": "西直门",
+      "length": 5.2,
+      "type": "主干道"
+    },
+    {
+      "id": "R007",
+      "name": "朝外大街",
+      "start": "朝阳门",
+      "end": "东三环",
+      "length": 1.8,
+      "type": "主干道"
+    },
+    {
+      "id": "R008",
+      "name": "王府井大街",
+      "start": "东单",
+      "end": "金鱼胡同",
+      "length": 1.6,
+      "type": "商业街"
+    },
+    {
+      "id": "R009",
+      "name": "前门大街",
+      "start": "天安门",
+      "end": "珠市口",
+      "length": 0.8,
+      "type": "商业街"
+    },
+    {
+      "id": "R010",
+      "name": "宣武门外大街",
+      "start": "宣武门",
+      "end": "菜市口",
+      "length": 1.2,
+      "type": "主干道"
+    },
+    {
+      "id": "R011",
+      "name": "崇文门外大街",
+      "start": "崇文门",
+      "end": "磁器口",
+      "length": 1.1,
+      "type": "主干道"
+    },
+    {
+      "id": "R012",
+      "name": "金融街",
+      "start": "复兴门",
+      "end": "阜成门",
+      "length": 1.8,
+      "type": "商业街"
+    },
+    {
+      "id": "R013",
+      "name": "平安大街",
+      "start": "东四十条",
+      "end": "官园桥",
+      "length": 7.0,
+      "type": "主干道"
+    },
+    {
+      "id": "R014",
+      "name": "两广路",
+      "start": "广渠门",
+      "end": "广安门",
+      "length": 8.5,
+      "type": "主干道"
+    },
+    {
+      "id": "R015",
+      "name": "西直门外大街",
+      "start": "西直门",
+      "end": "展览路",
+      "length": 2.3,
+      "type": "主干道"
+    },
+    {
+      "id": "R016",
+      "name": "东直门外大街",
+      "start": "东直门",
+      "end": "农展馆",
+      "length": 2.8,
+      "type": "主干道"
+    },
+    {
+      "id": "R017",
+      "name": "建国路",
+      "start": "国贸",
+      "end": "四惠",
+      "length": 3.2,
+      "type": "主干道"
+    },
+    {
+      "id": "R018",
+      "name": "复兴门外大街",
+      "start": "复兴门",
+      "end": "公主坟",
+      "length": 3.5,
+      "type": "主干道"
+    },
+    {
+      "id": "R019",
+      "name": "德胜门外大街",
+      "start": "德胜门",
+      "end": "马甸",
+      "length": 2.1,
+      "type": "主干道"
+    },
+    {
+      "id": "R020",
+      "name": "安定门外大街",
+      "start": "安定门",
+      "end": "安贞桥",
+      "length": 2.0,
+      "type": "主干道"
+    },
+    {
+      "id": "R021",
+      "name": "朝阳北路",
+      "start": "东大桥",
+      "end": "定福庄",
+      "length": 10.2,
+      "type": "主干道"
+    },
+    {
+      "id": "R022",
+      "name": "通惠河北路",
+      "start": "东便门",
+      "end": "四惠桥",
+      "length": 4.5,
+      "type": "快速路"
+    },
+    {
+      "id": "R023",
+      "name": "莲花池东路",
+      "start": "天宁寺桥",
+      "end": "六里桥",
+      "length": 3.8,
+      "type": "快速路"
+    },
+    {
+      "id": "R024",
+      "name": "阜成门外大街",
+      "start": "阜成门",
+      "end": "甘家口",
+      "length": 1.5,
+      "type": "主干道"
+    },
+    {
+      "id": "R025",
+      "name": "建国内大街",
+      "start": "东单",
+      "end": "建国门",
+      "length": 1.2,
+      "type": "主干道"
+    }
+  ],
+  "flow_data": [
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 3200,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4500,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3800,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3697,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3132,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3241,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3211,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 3645,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 3767,
+      "speed": 19,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 4181,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 4200,
+      "speed": 15,
+      "congestion": 3
+    },
+    {
+      "road_id": "R001",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4800,
+      "speed": 12,
+      "congestion": 4
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 5200,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 7800,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 6500,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 5646,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 5831,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 5265,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 5494,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 5968,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 5644,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 6245,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 7200,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R002",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 8500,
+      "speed": 15,
+      "congestion": 4
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 6800,
+      "speed": 42,
+      "congestion": 1
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 9500,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 8200,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 7963,
+      "speed": 37,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 7477,
+      "speed": 36,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 6835,
+      "speed": 34,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 7353,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 7825,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 6919,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 8000,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 8800,
+      "speed": 25,
+      "congestion": 3
+    },
+    {
+      "road_id": "R003",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 10200,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 5500,
+      "speed": 55,
+      "congestion": 1
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 7200,
+      "speed": 40,
+      "congestion": 1
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 6500,
+      "speed": 48,
+      "congestion": 1
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 6350,
+      "speed": 52,
+      "congestion": 1
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 5648,
+      "speed": 49,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 5291,
+      "speed": 47,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 6169,
+      "speed": 55,
+      "congestion": 1
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 5559,
+      "speed": 46,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 5482,
+      "speed": 41,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 5809,
+      "speed": 38,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 6800,
+      "speed": 38,
+      "congestion": 2
+    },
+    {
+      "road_id": "R004",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 8200,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2800,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4200,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3500,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3535,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3238,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3295,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3245,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 3191,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 3618,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3430,
+      "speed": 17,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3800,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R005",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4500,
+      "speed": 12,
+      "congestion": 4
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2200,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 3500,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3000,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2855,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 2885,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 2705,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 2825,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2727,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2910,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 2697,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3200,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R006",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 3800,
+      "speed": 14,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1800,
+      "speed": 35,
+      "congestion": 1
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2800,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2400,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2142,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 2082,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1948,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 2011,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1996,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2162,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 2471,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2600,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R007",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 3000,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 800,
+      "speed": 15,
+      "congestion": 3
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 1200,
+      "speed": 12,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1500,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 1397,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1361,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1305,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1337,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1576,
+      "speed": 11,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1576,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1682,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 1800,
+      "speed": 8,
+      "congestion": 4
+    },
+    {
+      "road_id": "R008",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 1600,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 600,
+      "speed": 12,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 900,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1100,
+      "speed": 8,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 982,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1067,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 941,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 995,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1155,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1140,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1204,
+      "speed": 10,
+      "congestion": 4
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 1300,
+      "speed": 6,
+      "congestion": 5
+    },
+    {
+      "road_id": "R009",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 1100,
+      "speed": 8,
+      "congestion": 4
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1500,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2200,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1900,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 1852,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1825,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1756,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1567,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1528,
+      "speed": 19,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1688,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1770,
+      "speed": 17,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2000,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R010",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 2400,
+      "speed": 14,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1400,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2100,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1800,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 1595,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1763,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1697,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1514,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1650,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1629,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1909,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 1900,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R011",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 2200,
+      "speed": 15,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1200,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 1800,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2200,
+      "speed": 15,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2015,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1818,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1733,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1806,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1698,
+      "speed": 17,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1850,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 2042,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2000,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R012",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 1600,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2800,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4200,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3500,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3238,
+      "speed": 25,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 2994,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3413,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3108,
+      "speed": 25,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2909,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 3006,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3241,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3800,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R013",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4500,
+      "speed": 14,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 3200,
+      "speed": 38,
+      "congestion": 1
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4800,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 4000,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3856,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3804,
+      "speed": 33,
+      "congestion": 2
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3447,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3180,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 3460,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 4048,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3923,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 4200,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R014",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 5000,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1600,
+      "speed": 35,
+      "congestion": 1
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2400,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2000,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2070,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1950,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1608,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1863,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1892,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1922,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1937,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2200,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R015",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 2600,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1800,
+      "speed": 40,
+      "congestion": 1
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2800,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2400,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2329,
+      "speed": 33,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 2005,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 2099,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 2105,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2366,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2433,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 2292,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2600,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R016",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 3000,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2200,
+      "speed": 38,
+      "congestion": 1
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 3500,
+      "speed": 24,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2900,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2745,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 2470,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 2802,
+      "speed": 34,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 2784,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2546,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2850,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3019,
+      "speed": 25,
+      "congestion": 3
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3200,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R017",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 3800,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2400,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 3800,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3200,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2815,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3059,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 2869,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3006,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2928,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2736,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3121,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3500,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R018",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4000,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1400,
+      "speed": 42,
+      "congestion": 1
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2200,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1800,
+      "speed": 35,
+      "congestion": 1
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 1541,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1782,
+      "speed": 39,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1733,
+      "speed": 39,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1722,
+      "speed": 37,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1590,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1577,
+      "speed": 28,
+      "congestion": 3
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1984,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2000,
+      "speed": 25,
+      "congestion": 2
+    },
+    {
+      "road_id": "R019",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 2400,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1500,
+      "speed": 40,
+      "congestion": 1
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2400,
+      "speed": 26,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2000,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2061,
+      "speed": 36,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1668,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1778,
+      "speed": 33,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1631,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1921,
+      "speed": 33,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2009,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1881,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2200,
+      "speed": 24,
+      "congestion": 2
+    },
+    {
+      "road_id": "R020",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 2600,
+      "speed": 19,
+      "congestion": 3
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 2800,
+      "speed": 45,
+      "congestion": 1
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4200,
+      "speed": 30,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3600,
+      "speed": 38,
+      "congestion": 1
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3370,
+      "speed": 39,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3271,
+      "speed": 40,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3009,
+      "speed": 37,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3379,
+      "speed": 41,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 3151,
+      "speed": 36,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 3136,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3554,
+      "speed": 31,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 3800,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R021",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4500,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 3500,
+      "speed": 55,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 5200,
+      "speed": 40,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 4500,
+      "speed": 48,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 4434,
+      "speed": 52,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3817,
+      "speed": 48,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3814,
+      "speed": 49,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 4343,
+      "speed": 55,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 4149,
+      "speed": 50,
+      "congestion": 1
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 4141,
+      "speed": 45,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 4465,
+      "speed": 42,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 4800,
+      "speed": 38,
+      "congestion": 2
+    },
+    {
+      "road_id": "R022",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 5500,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 3000,
+      "speed": 50,
+      "congestion": 1
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 4500,
+      "speed": 35,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 3800,
+      "speed": 42,
+      "congestion": 1
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 3324,
+      "speed": 40,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 3270,
+      "speed": 42,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 3284,
+      "speed": 43,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 3460,
+      "speed": 44,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 3292,
+      "speed": 39,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 3435,
+      "speed": 36,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 3544,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 4200,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R023",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 4800,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1200,
+      "speed": 32,
+      "congestion": 2
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 1800,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 1500,
+      "speed": 26,
+      "congestion": 2
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 1450,
+      "speed": 27,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1280,
+      "speed": 26,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 1428,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 1412,
+      "speed": 29,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 1227,
+      "speed": 23,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 1324,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 1533,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 1600,
+      "speed": 20,
+      "congestion": 2
+    },
+    {
+      "road_id": "R024",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 1900,
+      "speed": 17,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 7,
+      "flow": 1800,
+      "speed": 28,
+      "congestion": 2
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 8,
+      "flow": 2800,
+      "speed": 18,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 9,
+      "flow": 2300,
+      "speed": 22,
+      "congestion": 2
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 10,
+      "flow": 2048,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 11,
+      "flow": 1932,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 12,
+      "flow": 2218,
+      "speed": 24,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 13,
+      "flow": 2068,
+      "speed": 22,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 14,
+      "flow": 2072,
+      "speed": 21,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 15,
+      "flow": 2298,
+      "speed": 20,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 16,
+      "flow": 2454,
+      "speed": 19,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 17,
+      "flow": 2500,
+      "speed": 16,
+      "congestion": 3
+    },
+    {
+      "road_id": "R025",
+      "date": "2024-01-01",
+      "hour": 18,
+      "flow": 3000,
+      "speed": 13,
+      "congestion": 4
+    }
+  ],
+  "congestion_hotspots": [
+    {
+      "id": "H001",
+      "name": "王府井商圈",
+      "location": "东城区王府井大街",
+      "severity": "严重",
+      "average_speed": 8,
+      "peak_hour": "17:00-19:00",
+      "lng": 116.4174,
+      "lat": 39.9199,
+      "level": 5
+    },
+    {
+      "id": "H002",
+      "name": "国贸CBD",
+      "location": "朝阳区建国门外大街",
+      "severity": "严重",
+      "average_speed": 12,
+      "peak_hour": "08:00-09:00",
+      "lng": 116.4328,
+      "lat": 39.9097,
+      "level": 5
+    },
+    {
+      "id": "H003",
+      "name": "金融街",
+      "location": "西城区金融街",
+      "severity": "中等",
+      "average_speed": 15,
+      "peak_hour": "09:00-10:00",
+      "lng": 116.3567,
+      "lat": 39.9249,
+      "level": 3
+    },
+    {
+      "id": "H004",
+      "name": "西单商圈",
+      "location": "西城区西单北大街",
+      "severity": "中等",
+      "average_speed": 14,
+      "peak_hour": "18:00-20:00",
+      "lng": 116.3717,
+      "lat": 39.9149,
+      "level": 3
+    },
+    {
+      "id": "H005",
+      "name": "中关村商圈",
+      "location": "海淀区中关村大街",
+      "severity": "轻微",
+      "average_speed": 18,
+      "peak_hour": "08:30-09:30",
+      "lng": 116.315,
+      "lat": 39.985,
+      "level": 2
+    }
+  ],
+  "coordinates": {
+    "R001": [
+      [
+        116.4074,
+        39.9149
+      ],
+      [
+        116.3717,
+        39.9149
+      ]
+    ],
+    "R002": [
+      [
+        116.4402,
+        39.9243
+      ],
+      [
+        116.3406,
+        39.9243
+      ]
+    ],
+    "R003": [
+      [
+        116.4799,
+        39.9149
+      ],
+      [
+        116.301,
+        39.9149
+      ]
+    ],
+    "R004": [
+      [
+        116.5298,
+        39.9055
+      ],
+      [
+        116.2511,
+        39.9055
+      ]
+    ],
+    "R005": [
+      [
+        116.4128,
+        39.9097
+      ],
+      [
+        116.4328,
+        39.9097
+      ]
+    ],
+    "R006": [
+      [
+        116.31,
+        39.9875
+      ],
+      [
+        116.367,
+        39.9243
+      ]
+    ],
+    "R007": [
+      [
+        116.4378,
+        39.9296
+      ],
+      [
+        116.4678,
+        39.9296
+      ]
+    ],
+    "R008": [
+      [
+        116.4074,
+        39.9149
+      ],
+      [
+        116.4174,
+        39.9199
+      ]
+    ],
+    "R009": [
+      [
+        116.3974,
+        39.9049
+      ],
+      [
+        116.3974,
+        39.8969
+      ]
+    ],
+    "R010": [
+      [
+        116.3617,
+        39.9149
+      ],
+      [
+        116.3717,
+        39.9049
+      ]
+    ],
+    "R011": [
+      [
+        116.4274,
+        39.9149
+      ],
+      [
+        116.4374,
+        39.9049
+      ]
+    ],
+    "R012": [
+      [
+        116.3517,
+        39.9149
+      ],
+      [
+        116.3617,
+        39.9249
+      ]
+    ],
+    "R013": [
+      [
+        116.4478,
+        39.9346
+      ],
+      [
+        116.3478,
+        39.9346
+      ]
+    ],
+    "R014": [
+      [
+        116.4528,
+        39.8949
+      ],
+      [
+        116.3528,
+        39.8949
+      ]
+    ],
+    "R015": [
+      [
+        116.3406,
+        39.9243
+      ],
+      [
+        116.3206,
+        39.9243
+      ]
+    ],
+    "R016": [
+      [
+        116.4502,
+        39.9343
+      ],
+      [
+        116.4802,
+        39.9343
+      ]
+    ],
+    "R017": [
+      [
+        116.4328,
+        39.9097
+      ],
+      [
+        116.4628,
+        39.9097
+      ]
+    ],
+    "R018": [
+      [
+        116.3617,
+        39.9149
+      ],
+      [
+        116.3917,
+        39.9049
+      ]
+    ],
+    "R019": [
+      [
+        116.3706,
+        39.9443
+      ],
+      [
+        116.3506,
+        39.9543
+      ]
+    ],
+    "R020": [
+      [
+        116.4002,
+        39.9443
+      ],
+      [
+        116.4002,
+        39.9643
+      ]
+    ],
+    "R021": [
+      [
+        116.4578,
+        39.9196
+      ],
+      [
+        116.5578,
+        39.9196
+      ]
+    ],
+    "R022": [
+      [
+        116.4274,
+        39.8949
+      ],
+      [
+        116.4774,
+        39.9049
+      ]
+    ],
+    "R023": [
+      [
+        116.3206,
+        39.9049
+      ],
+      [
+        116.3606,
+        39.8849
+      ]
+    ],
+    "R024": [
+      [
+        116.3517,
+        39.9249
+      ],
+      [
+        116.3667,
+        39.9249
+      ]
+    ],
+    "R025": [
+      [
+        116.3974,
+        39.9149
+      ],
+      [
+        116.4128,
+        39.9097
+      ]
+    ]
+  }
+}
